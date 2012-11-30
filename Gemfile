@@ -32,7 +32,7 @@ group :test do
   gem 'database_cleaner', '0.7.0'
   gem 'rb-fchange', '0.0.5'
   gem 'rb-notifu',  '0.0.4'
-  gem 'win32console', '1.3.0'
+#  gem 'win32console', '1.3.0'
   gem 'guard-spork', '1.2.0'
   gem 'spork', '0.9.0'
   # gem 'launchy', '2.1.0'
