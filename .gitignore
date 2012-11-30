@@ -13,3 +13,20 @@
 # Ignore all logfiles and tempfiles.
 /log/*.log
 /tmp
+
+/public/uploads/tmp
+
+/.sass-cache
+
+/.rvmrc
+
+/.idea
+
+*.swp
+.DS_Store
+.com.apple.timemachine.supported
+
+/db/schema.rb
+
+/config/database.yml
+
