@@ -30,7 +30,7 @@ group :test do
   gem 'factory_girl_rails', '4.1.0'
   gem 'cucumber-rails', '1.2.1', :require => false
   gem 'database_cleaner', '0.7.0'
-  gem 'rb-fchange', '0.0.5'
+  #gem 'rb-fchange', '0.0.5'
   gem 'rb-notifu',  '0.0.4'
 #  gem 'win32console', '1.3.0'
   gem 'guard-spork', '1.2.0'
