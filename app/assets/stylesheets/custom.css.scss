@@ -4,11 +4,19 @@
 
 $grayMediumLight: #eaeaea;
 
+<<<<<<< HEAD
 @mixin box_sizing{
+=======
+@mixin box_sizing {
+>>>>>>> d9ae5a71f02215d0a8fd5acfba2d44a03fb6d730
   -moz-box-sizing: border-box;
   -webkit-box-sizing: border-box;
   box-sizing: border-box;
 }
+<<<<<<< HEAD
+=======
+
+>>>>>>> d9ae5a71f02215d0a8fd5acfba2d44a03fb6d730
 /* universal */
 
 html {
@@ -124,6 +132,7 @@ footer {
     }
   }
 }
+<<<<<<< HEAD
 
 /* miscellaneous */
 
@@ -134,3 +143,14 @@ footer {
   margin-top: 45px;
   @include box_sizing;
 }
+=======
+/* miscellaneous */
+
+  .debug_dump{
+    clear: both;
+    float: left;
+    width: 100%;
+    margin-top: 45px;
+    @include box_sizing;
+ }
+>>>>>>> d9ae5a71f02215d0a8fd5acfba2d44a03fb6d730
