@@ -11,8 +11,7 @@ describe "Authentication" do
     it { should have_selector('title', text: 'Sign in') }
   end
    
-   describe "signin" do
-     
+   describe "signin" do     
      before { visit signin_path }
       
     describe "with invalid information" do
